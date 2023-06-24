@@ -1,8 +1,8 @@
 # Create football database in Postgres and build tables using Python
 
 # Data for the project can be found here
-https://myfootballdata-01.s3.amazonaws.com/appearances.csv
-https://myfootballdata-01.s3.amazonaws.com/player_valuations.csv
+https://myfootballdata-01.s3.amazonaws.com/appearances.csv \
+https://myfootballdata-01.s3.amazonaws.com/player_valuations.csv \
 https://myfootballdata-01.s3.amazonaws.com/players.csv
 
 # Establish connection
