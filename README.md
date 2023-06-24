@@ -17,3 +17,6 @@
 
 # Retrieve the name, current club, and position of the player with the highest market value
 ![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/3fc4b408-551b-458f-ac78-b1d53c101516)
+
+# Retrieving market value as well
+![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/615af31e-7cba-4a97-8056-6dfeec44ce24)
