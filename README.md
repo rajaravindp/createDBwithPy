@@ -28,3 +28,9 @@ https://myfootballdata-01.s3.amazonaws.com/players.csv
 
 # Retrieve average market value of players by position
 ![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/0816e002-adb7-43bf-9f6f-5e09d37dfe35)
+
+# Retrieve the players with the highest market value in each position
+![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/7d4c44d1-d8a9-428b-b18a-a07bfc5c6d48)
+
+# Retrieve top 5 clubs with the highest total market value of players
+![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/d277f504-1165-4cef-99c5-6f83430e9f1a)
