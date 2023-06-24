@@ -23,5 +23,8 @@ https://myfootballdata-01.s3.amazonaws.com/players.csv
 # Retrieve the name, current club, and position of the player with the highest market value
 ![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/3fc4b408-551b-458f-ac78-b1d53c101516)
 
-# Retrieving market value as well
+# Retrieving market value for Kylian Mbappe
 ![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/615af31e-7cba-4a97-8056-6dfeec44ce24)
+
+# Retrieve average market value of players by position
+![image](https://github.com/rajaravindp/createDBwithPy/assets/118573661/0816e002-adb7-43bf-9f6f-5e09d37dfe35)
