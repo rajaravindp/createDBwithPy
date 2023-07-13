@@ -1,4 +1,6 @@
-# Create football database & build tables using Python, and query using PostgresSQL
+# Building a Python Football Database with PostgreSQL
+
+## Create football database & build tables using Python, and query using PostgresSQL
 
 # Data for the project can be found here
 https://myfootballdata-01.s3.amazonaws.com/appearances.csv \
